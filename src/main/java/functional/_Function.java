@@ -3,6 +3,9 @@ package functional;
 import java.util.function.BiFunction;
 import java.util.function.Function;
 
+// a function it's a functional interface that receives some input parameters and returns some data
+// Function interface accepts one input parameter type and one result type
+// BiFunction interface accepts two input parameters
 public class _Function {
 
     public static void main(String[] args) {

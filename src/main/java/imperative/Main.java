@@ -8,6 +8,7 @@ import java.util.stream.Collectors;
 import static imperative.Main.Gender.FEMALE;
 import static imperative.Main.Gender.MALE;
 
+// quick example comparing imperative way versus declarative way of developing in Java
 public class Main {
     public static void main(String[] args) {
         // imperative way

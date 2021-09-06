@@ -3,6 +3,8 @@ package functional;
 import java.util.function.BiPredicate;
 import java.util.function.Predicate;
 
+// Predicate it's a functional interface that provides a way to test / validate some values, returning a boolean
+// BiPredicate accepts two parameters, instead of one parameter accepted in Predicate interface
 public class _Predicate {
     public static void main(String[] args) {
         System.out.println(isPhoneNumberWithDDD.test("16988030567", "16"));
